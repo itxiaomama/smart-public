@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'myFont';
+    src: url('assets/font/苹方字体.ttf');
+  }
+  #h {
+    font-family: 'myFont';
+  }
